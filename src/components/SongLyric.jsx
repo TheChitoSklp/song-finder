@@ -3,7 +3,7 @@ import React from "react";
 const SongLyric = () => {
   return (
     <div>
-      <h2>Leta de la cancion</h2>
+      <h2>Letra de la cancion</h2>
     </div>
   );
 };
